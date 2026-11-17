@@ -4,14 +4,15 @@ Hier liegen die Profil-Dateien für unseren Minecraft-Server (NeoForge). Mit **M
 
 ## Einrichten (einmalig)
 
-1. **[ModSync.exe herunterladen](https://github.com/lonitys/MinecraftModpack/releases/tag/tool-1.0.0)**. Die Datei liegt unter *Assets*.
+1. **[ModSync.exe herunterladen](https://github.com/lonitys/MinecraftModpack/releases/download/tool-1.0.1/ModSync.exe)**. Neuere Versionen meldet ModSync dann selbst.
 2. ModSync starten. Falls Windows warnt: *Weitere Informationen → Trotzdem ausführen*.
 3. Auf **„Update holen“** klicken und den Schritten folgen:
    - Die CurseForge App öffnet sich. Dort links *Minecraft* wählen.
    - Oben auf **„Create Custom Profile“** klicken, dann auf **„Import“**.
    - Die Profil-Datei auswählen. ModSync zeigt sie dir im Explorer, und der Pfad liegt schon in der Zwischenablage.
-4. Wenn alle Mods geladen sind: **„Einstellungen übernehmen“** klicken. Damit kommen Tastenbelegung, Grafik, Serverliste, Shader usw. ins neue Profil.
-5. Das neue Profil in der CurseForge App starten und mit dem Server verbinden.
+4. Wenn alle Mods geladen sind, sind auch alle **Resourcepacks und Shader** vom Server-Pack da, und die Auswahl des Admins ist eingeschaltet. Lieber deine eigene? Dann nimm dort den Haken raus.
+5. **„Einstellungen übernehmen“** klicken. Damit kommen Tastenbelegung, Grafik, Serverliste, eigene Shader usw. aus deinem alten Profil ins neue.
+6. Das neue Profil in der CurseForge App starten und mit dem Server verbinden.
 
 ## Bei Updates
 
