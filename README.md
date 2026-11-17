@@ -4,7 +4,7 @@ Hier liegen die Profil-Dateien für unseren Minecraft-Server (NeoForge). Mit **M
 
 ## Einrichten (einmalig)
 
-1. **[ModSync.exe herunterladen](https://github.com/lonitys/MinecraftModpack/releases/download/tool-1.0.5/ModSync.exe)**. Neuere Versionen meldet ModSync dann selbst.
+1. **[ModSync.exe herunterladen](https://github.com/lonitys/MinecraftModpack/releases/download/tool-1.0.6/ModSync.exe)**. Neuere Versionen meldet ModSync dann selbst.
 2. ModSync starten. Falls Windows warnt: *Weitere Informationen → Trotzdem ausführen*.
 3. Auf **„Update holen“** klicken und den Schritten folgen:
    - Die CurseForge App öffnet sich. Dort links *Minecraft* wählen.
